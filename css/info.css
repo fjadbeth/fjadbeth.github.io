@@ -6,10 +6,18 @@ body {
     min-height: 100vh;
 }
 
+p {
+    font-size: 19px;
+}
+
 a {
     color: black;
     text-decoration: none;
 } 
+
+span {
+    margin-right: 5%;
+}
 
 /* Navigation Bar */
 .container-fluid {
@@ -29,26 +37,19 @@ a {
     color: rgb(0, 105, 170);
 }
 
-/* Project Content */
-.project-content {
-    padding-left: 8%;
-    padding-right: 8%;
-    margin-left: auto;
-    margin-right: auto;
-    margin-bottom: 100px;
+/* Abot Me Content */
+.info-content {
+    margin-bottom: 150px;
 }
 
-.row {
-    margin-top: 3%;
+.about-text {
+    text-align: left;
+    margin-left: 2%;
+    margin-top: 5%;
 }
 
 .title {
-    color: rgb(0, 105, 170);
-}
-
-.btn-secondary {
-    background-color: rgb(0, 105, 170);
-    margin-bottom: 5%;
+    margin-bottom: 10%;
 }
 
 /* Footer Section */
