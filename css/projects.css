@@ -29,6 +29,10 @@ a {
     color: rgb(0, 105, 170);
 }
 
+.sub-title {
+    text-align: left;
+}
+
 /* Project Content */
 .project-content {
     padding-left: 8%;

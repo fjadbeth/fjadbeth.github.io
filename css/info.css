@@ -37,6 +37,10 @@ span {
     color: rgb(0, 105, 170);
 }
 
+.sub-title {
+    text-align: left;
+}
+
 /* Abot Me Content */
 .info-content {
     margin-bottom: 150px;

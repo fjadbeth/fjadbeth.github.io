@@ -38,6 +38,10 @@ a h1 {
     color: rgb(0, 105, 170);
 }
 
+.sub-title {
+    text-align: left;
+}
+
 /* Main Content */
 .main-content {
     padding: 2% 14% 5%;
